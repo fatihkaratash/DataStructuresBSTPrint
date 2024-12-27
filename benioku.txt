@@ -1,0 +1,11 @@
+2. Derleme Komutları:
+   - mingw32-make
+   - mingw32-make dizin
+   - mingw32-make all
+
+ONEMLİ Her şey eksiksiz çalışıyor. "TXT ÇALIŞMASI İÇİN ÖNCE mingw32-make yapın. Direkt .exe çalıştırılırsa olmaz"
+
+. input.txt dosyasına işlenecek verileri her satıra bir string olacak şekilde yazın
+2. Programı çalıştırın (.\bin\program.exe)
+3. Her satırdaki veriler için BST ağaçları oluşturulacak ve gösterilecektir
+
